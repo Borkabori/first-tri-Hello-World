@@ -15,3 +15,12 @@ input {
   color: white;
   border: #885df1;
 }
+
+#bp {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  border: solid 2px #885df1;
+  border-radius: 10px;
+  width: 80%;
+}
