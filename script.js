@@ -1,1 +1,1 @@
-alert("Have fun!");
+alert("Have much fun!");
